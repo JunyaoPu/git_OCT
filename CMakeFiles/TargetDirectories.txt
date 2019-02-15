@@ -1,0 +1,3 @@
+/home/junyao/git_OTC/CMakeFiles/rebuild_cache.dir
+/home/junyao/git_OTC/CMakeFiles/edit_cache.dir
+/home/junyao/git_OTC/CMakeFiles/TMC_OCTv3.dir
